@@ -12,7 +12,7 @@
 <hr></hr>
 
 ### Stack-Development :art:
-- .C# / Javascript(TypeScript) / SQL
+- .C# / Javascript(TypeScript) / SQL / CSS3
 - .NET Core / NodeJs / Expressjs / Reactjs / React Native
 - Docker / Nginx
 - NoSQL(MongoDB/Firebase) / SQL Server / ORACLE DB / Redis
